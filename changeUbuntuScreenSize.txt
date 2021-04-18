@@ -1,0 +1,12 @@
+UBUNTU screen size change in 5 simple step.
+=============================================
+
+1. Start your VM
+2. Ligin with credentials
+3. Go to settings
+4. Scroll down to "devices"
+5. Chnage resolution from 800*600 to 1280*768 and confirm.
+	
+	You are done!!!!!!
+
+	Give *
