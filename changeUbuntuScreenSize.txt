@@ -1,4 +1,4 @@
-UBUNTU screen size change in 5 simple step.
+UBUNTU screen size change in simple step.
 =============================================
 
 1. Start your VM
